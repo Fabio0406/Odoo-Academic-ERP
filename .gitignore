@@ -1,0 +1,6 @@
+
+# Secretos y archivos generados (no subir)
+log/
+*.zip
+__pycache__/
+*.pyc
